@@ -1,2 +1,2 @@
-Git is a version contorl system
+Git is a distraibuted version contorl system
 git is free sofeware
